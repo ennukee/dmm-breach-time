@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bf3d161.css",
+    "main.js": "/static/js/main.9e22663f.js",
+    "static/media/RuneScape-Chat-Bold-07.ttf": "/static/media/RuneScape-Chat-Bold-07.8312160100eedb12bf64.ttf",
+    "index.html": "/index.html",
+    "main.5bf3d161.css.map": "/static/css/main.5bf3d161.css.map",
+    "main.9e22663f.js.map": "/static/js/main.9e22663f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf3d161.css",
+    "static/js/main.9e22663f.js"
+  ]
+}
